@@ -1,0 +1,22 @@
+export EDITOR="mate -w"
+export PATH=$PATH:~/bin
+
+PATH="/opt/local/bin:/opt/local/sbin:/bin/executables:/usr/local/bin:/usr/local/sbin:/bin:/sbin:/usr/bin:/usr/sbin:/usr/local/Cellar/ruby/1.9.3-p194/bin"
+
+#from profile
+PATH=$PATH:/usr/local/Cellar/ruby/1.9.3-p194/bin
+# Setting PATH for Python 2.7
+# The orginal version is saved in Macintosh
+#HD
+#.bash_profile.pysave
+#PATH="/Library/Frameworks/Python.framework/Versions/2.7/bin:${PATH}"
+#export PATH
+export LC_CTYPE="utf-8"
+
+##
+# Your previous /Volumes/Macintosh HD 2/Users/jmart/.bash_profile file was backed up as /Volumes/Macintosh HD 2/Users/jmart/.bash_profile.macports-saved_2012-10-15_at_18:34:46
+##
+
+# MacPorts Installer addition on 2012-10-15_at_18:34:46: adding an appropriate PATH variable for use with MacPorts.
+export PATH=/opt/local/bin:/opt/local/sbin:$PATH
+# Finished adapting your PATH environment variable for use with MacPorts.

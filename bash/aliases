@@ -1,0 +1,8 @@
+alias tu='top -o cpu'
+alias tm='top -o vsize'
+alias dev='cd ~/Dropbox/dev/'
+#github
+alias gg='git commit -v -a -m "$*"'
+#Middleman
+alias mm='middleman'
+alias mmserve='bundle exec mm server'
